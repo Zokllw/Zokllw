@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,aiscript,figma,js,apple,obsidian,blender)](https://skillicons.dev)
 
 # AI
-### ТОП AI МОДЕЛЕЙ 
+### ТОП МОДЕЛЕЙ 
 
 | # | Модель | Разработчик | Оценка | Работа 
 |---|--------|-------------|--------|---------------|
